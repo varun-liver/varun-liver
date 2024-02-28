@@ -28,6 +28,3 @@ def encrypt(text , scale) -> str:
             
             
         
-
-        return result
-encrypt("sus", 3)
